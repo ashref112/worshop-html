@@ -1,0 +1,40 @@
+body {
+    background-color:rgb(0,206,209) ;
+    margin: auto;
+    padding: auto;
+    
+    
+  }
+  header{
+    background-color: rgb(95,158,160);
+    border-style: solid;
+  border-width: thin;
+  margin: 5%;
+  }
+  main{
+    
+    background-color: rgb(0,191,255);
+    border-style: solid;
+    border-width: thin;
+    margin: 5%;
+    
+  }
+  footer{
+    background-color: rgb(70,130,180);
+    border: double;
+    margin: 5%;
+  }
+  h1 , h6 {
+    color: red;
+  }
+  #myid{
+    color: deeppink;
+    width: fit-content;
+    font-size: 90px;
+    font-weight: 200;
+  }
+  #myid2{
+    font-size: 90px;
+    background-color: gold;
+    width: fit-content;
+  }
